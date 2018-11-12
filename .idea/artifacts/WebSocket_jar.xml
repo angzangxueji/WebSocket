@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebSocket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebSocket_jar</output-path>
+    <root id="archive" name="WebSocket.jar">
+      <element id="module-output" name="WebSocket" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/netty-all-5.0.0.Alpha2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fastjson-1.1.33.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
